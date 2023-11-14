@@ -27,7 +27,7 @@ body {
 
 
 
-/*öyric tipyg */
+
 
 .wrapper {
   height: 100vh;
@@ -59,7 +59,7 @@ body {
     border-color: transparent
   }
 }
-/*öyric tipyg */
+
 
 
 
@@ -507,7 +507,7 @@ button:not(:focus) ~ .icons{
     display:flex;
     position: fixed;
     top:95%;
-    left:50%;
+    left:51.5%;
     transform:translate(-50%,-50%);
     
   }
@@ -519,7 +519,7 @@ button:not(:focus) ~ .icons{
     color:rgb(12, 38, 114);
   }
   a:nth-child(2):hover{
-    color:skyblue;
+    color:rgb(255, 255, 255);
   }
   a:nth-child(3):hover{
     color:rgb(59, 59, 59);
